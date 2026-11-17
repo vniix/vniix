@@ -10,8 +10,7 @@
 - 🌱 Currently learning **SQL**, **Excel**, and **Power BI**
 - 🎨 Enjoy UI design and building simple, user-friendly experiences
 - 🏅 Certified in AI Fundamentals by SDAIA
-- 🤝 Volunteer Computer Science Specialization Leader at the Manar Al-Ilm initiative
-- 🔍 Looking for a Co-op training opportunity starting January 2027
+- 🤝 Former volunteer Computer Science Specialization Leader at the Manar Al-Ilm initiative
 
 ---
 
